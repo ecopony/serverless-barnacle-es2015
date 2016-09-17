@@ -1,0 +1,5 @@
+{
+  "name": "serverless-barnacle-es2015",
+  "custom": {},
+  "plugins": ["serverless-optimizer-plugin", "serverless-runtime-babel"]
+}
