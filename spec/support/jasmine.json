@@ -1,0 +1,7 @@
+{
+  "spec_dir": "./pincher",
+  "spec_files": [
+    "**/*-test.js"
+  ],
+  "random": true
+}
